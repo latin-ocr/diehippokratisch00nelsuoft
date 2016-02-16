@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diehippokratisch00nelsuoft_0135.png"; bbox 0 0 1598 2592; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 574 1381 1447 1499">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 574 1381 1447 1499">
+     <span class='ocr_line' id='line_1_1' title="bbox 706 1381 1312 1422; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 706 1383 888 1422; x_wconf 61' lang='grc' dir='ltr'><strong>ΡιεΑὓξ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 904 1382 977 1422; x_wconf 75' lang='grc'><strong>00</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 993 1381 1097 1421; x_wconf 76' lang='grc' dir='ltr'><strong>ΝΟΤ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1112 1381 1312 1420; x_wconf 65' lang='grc' dir='ltr'><strong><em>ΒΕΜΟἾΕ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 574 1459 1447 1499; baseline -0.001 -1"><span class='ocrx_word' id='word_1_5' title='bbox 574 1460 741 1498; x_wconf 69' lang='grc' dir='ltr'><strong>ΟΑΒΒΒ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 753 1460 821 1498; x_wconf 63' lang='grc' dir='ltr'><strong>Οῆ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 833 1459 968 1499; x_wconf 72' lang='lat' dir='ltr'><strong>sun</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 978 1459 1116 1499; x_wconf 56' lang='grc' dir='ltr'><strong>ΝΟΜ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1126 1459 1238 1498; x_wconf 71' lang='lat' dir='ltr'><strong>Tuus</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1251 1459 1447 1498; x_wconf 61' lang='lat' dir='ltr'><strong>Pocae?</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 576 1608 1446 1648">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 576 1608 1446 1648">
+     <span class='ocr_line' id='line_1_3' title="bbox 576 1608 1446 1648; baseline -0.001 -1"><span class='ocrx_word' id='word_1_11' title='bbox 576 1609 860 1648; x_wconf 70' lang='lat' dir='ltr'><strong>umvenswv</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 889 1609 952 1646; x_wconf 71' lang='grc' dir='ltr'><strong>ΟΡ</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 975 1608 1218 1648; x_wconf 70' lang='lat' dir='ltr'>Tonomo</span> <span class='ocrx_word' id='word_1_14' title='bbox 1243 1609 1446 1646; x_wconf 60' lang='lat' dir='ltr'><strong>uanam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 567 2082 712 2372">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 567 2082 712 2372">
+     <span class='ocr_line' id='line_1_4' title="bbox 567 2082 681 2172; baseline -0.009 0"><span class='ocrx_word' id='word_1_15' title='bbox 567 2082 681 2172; x_wconf 49' lang='lat' dir='ltr'><strong>5&amp;ss</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 572 2179 712 2223; baseline -0.021 0"><span class='ocrx_word' id='word_1_16' title='bbox 572 2179 712 2223; x_wconf 51' lang='lat' dir='ltr'>25Nq5</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 574 2229 683 2272; baseline -0.009 0"><span class='ocrx_word' id='word_1_17' title='bbox 574 2229 683 2272; x_wconf 78' lang='lat'>1909</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 572 2280 684 2372; baseline -0.009 -1"><span class='ocrx_word' id='word_1_18' title='bbox 572 2280 684 2372; x_wconf 55' lang='grc' dir='ltr'><strong>ἕόὲΑ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
